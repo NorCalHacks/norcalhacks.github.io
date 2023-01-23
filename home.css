@@ -159,7 +159,7 @@
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
   justify-content: center;
-  background-image: url('banner.png');
+  
   
 }
 .home-content-container {
@@ -175,6 +175,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
   justify-content: center;
+  background-image: url('banner.png');
 
 }
 .home-hero-text {
