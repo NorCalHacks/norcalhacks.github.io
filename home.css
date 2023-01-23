@@ -158,7 +158,6 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
-  background-image: url('banner.png');
   justify-content: center;
  
 }
@@ -174,6 +173,7 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
+  background-image: url('banner.png');
   justify-content: center;
 }
 .home-hero-text {
