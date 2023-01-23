@@ -902,7 +902,6 @@
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  background-image: url('banner.png');
 }
 .home-form-container {
   width: 40%;
