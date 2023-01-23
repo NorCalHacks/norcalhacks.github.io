@@ -158,6 +158,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
+  background-image: url('banner.png');
   justify-content: center;
  
 }
