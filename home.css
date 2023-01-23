@@ -901,8 +901,8 @@
   margin-top: var(--dl-space-space-fiveunits);
   align-items: center;
   flex-direction: row;
-  background-image: url('banner.png');
   justify-content: center;
+  background-image: url('banner.png');
 }
 .home-form-container {
   width: 40%;
